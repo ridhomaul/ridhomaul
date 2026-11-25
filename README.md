@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding Illustration" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
-I'm a **Full-Stack Web Developer** based in **Jakarta, Indonesia**, building scalable web platforms with **Laravel** and **Next.js**, backed by **PostgreSQL**. Before writing code full-time, I spent two years leading digital media production at **MileniaNews** — planning, editing, and shipping **2,000+ pieces** of content at scale. Now I build the tools I used to need, bridging engineering and real editorial workflows.
+I'm a **Full-Stack Developer** based in **Jakarta, Indonesia**, building scalable web platforms with **Laravel** and **Next.js**, backed by **PostgreSQL**. Before writing code full-time, I spent two years leading digital media production at **MileniaNews** — planning, editing, and shipping **2,000+ pieces** of content at scale. Now I build the tools I used to need, bridging engineering and real editorial workflows.
 
 ### 🧐 More About Me
 
