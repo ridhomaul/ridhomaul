@@ -1,21 +1,65 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ridho maulana
-====================================================================================================================================
-
-Web Developer & Social Media Manager
-------------------------------------
-
-* 🌍  I'm based in Bumi Serpong Damai
-* 🖥️  See my portfolio at [Kandang](http://ridhomaul.github.io/)
-* ✉️  You can contact me at [maulridho04@gmail.com](mailto:maulridho04@gmail.com)
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ridhomaul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in//ridho-maulana-073aaa386" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ridhomaul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhomaul&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Hey 👋, I'm Ridho Maulana!                                                                                                                                                                              
+                                                                                                                                                                                                               
+    <p align="left">                                                                                                                                                                                           
+      <a href="https://maulanaridho.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-17171a?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"   
+      /></a>
+      <a href="https://www.linkedin.com/in/ridho-maulana-073aaa386/" target="_blank" rel="noreferrer"><img                                                                                                     
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2
+      ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggM
+      S4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OS
+      AxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>                                                              
+      <a href="https://www.instagram.com/maulani.sudjatmiko" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"      
+      alt="Instagram" /></a>
+      <a href="mailto:maulridho04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>                                            
+      <a href="https://wa.me/6289618775467" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>   
+      <a href="https://maulanaridho.netlify.app/CV-Ridho-Maulana.pdf" target="_blank" rel="noreferrer"><img                                                                                                    
+      src="https://img.shields.io/badge/Resume_CV-24292F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume CV" /></a>                                                                          
+    </p>
+  
+    <img align="right" alt="Coding Illustration" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />                                                                               
+                                                                                                                                                                                                               
+    I'm a **Full-Stack Web Developer** based in **Jakarta, Indonesia**, building scalable web platforms with **Laravel** and **Next.js**, backed by **PostgreSQL**. Before writing code full-time, I spent two 
+    years leading digital media production at **MileniaNews** — planning, editing, and shipping **2,000+ pieces** of content at scale. Now I build the tools I used to need, bridging engineering and real     
+    editorial workflows.
+  
+    *“Systems are only as good as the people who use them.”*
+                                                                                                                                                                                                               
+    <br />                                                                                                                                                                                                     
+                                                                                                                                                                                                               
+    ### 🧐 More About Me                                                                                                                                                                                       
+                                                                                                                                                                                                               
+    - 🔭 &nbsp; Currently working on **Milenner Platform** — a multi-tenant content operations & Kanban platform for social media teams (`Next.js 16`, `React 19`, `TypeScript`, `Supabase`)                   
+    - 🌱 &nbsp; Currently deepening **scalable system architecture**, **PostgreSQL performance**, and **applied web cryptography**                                                                             
+    - 🔬 &nbsp; Built applied research on **Medical Record Encryption** at **Universitas Bina Sarana Informatika**                                                                                             
+    - 🎬 &nbsp; 2+ years experience as a **Digital Media Specialist** at **MileniaNews** (2,000+ pieces shipped) & IT Support background at **Gedung Bidakara**                                                
+    - 💬 &nbsp; Ask me about **Laravel, Next.js, TypeScript, PostgreSQL, Supabase**, or **digital media production pipelines**                                                                                 
+    - 📫 &nbsp; How to reach me: [maulridho04@gmail.com](mailto:maulridho04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ridho-maulana-073aaa386/) · [WhatsApp](https://wa.me/6289618775467)            
+    - 📄 &nbsp; Explore my full portfolio at [maulanaridho.netlify.app](https://maulanaridho.netlify.app/) or view my [Resume / CV](https://maulanaridho.netlify.app/CV-Ridho-Maulana.pdf)                     
+  
+    <br clear="right" />                                                                                                                                                                                       
+  
+    ### 🔨 Languages and Tools                                                                                                                                                                                 
+  
+    <p align="left">
+      <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,php,laravel,py,postgres,mysql,supabase,docker,figma,pr&perline=7&theme=dark" alt="Languages and Tools" />
+      </a>
+    </p>
+  
+    <p align="left">
+      <img src="https://img.shields.io/badge/GSAP-242938?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+    </p>
+  
+    <br />
+  
+    ### 📊 GitHub Stats                                                                                                                                                                                        
+                                                                                                                                                                                                               
+    <p align="center">                                                                                                                                                                                         
+      <a href="https://github.com/ridhomaul">
+        <img height="175" src="https://github-readme-stats.vercel.app/api?username=ridhomaul&show_icons=true&theme=github_dark&hide_border=true&custom_title=Ridho%20Maulana's%20GitHub%20Stats" alt="Ridho    
+        Maulana's GitHub Stats" />
+      </a>
+      <a href="https://github.com/ridhomaul">
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhomaul&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+      </a>
+    </p>
