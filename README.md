@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-      <img alt="Ridho Maulana — Full-Stack Developer " src="./assets/header-light.svg" width="100%" />
+      <img alt="Ridho Maulana — Full Stack Developer" src="./assets/header-light.svg" width="100%" />
     </picture>
   </a>
 </p>
