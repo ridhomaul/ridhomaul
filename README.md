@@ -40,9 +40,9 @@ I'm a **Full-Stack Developer** based in **Jakarta, Indonesia**, building scalabl
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,php,laravel,py,postgres,mysql,supabase,docker,figma,pr&perline=7&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,php,laravel,py,postgres,mysql,supabase,docker,figma,pr&perline=7&theme=light" />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,php,laravel,py,postgres,mysql,supabase,docker,figma,pr&perline=7&theme=dark" alt="Languages and Tools" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Ctailwind%2Cphp%2Claravel%2Cpy%2Cpostgres%2Cmysql%2Csupabase%2Cdocker%2Cfigma%2Cpr&perline=7&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Ctailwind%2Cphp%2Claravel%2Cpy%2Cpostgres%2Cmysql%2Csupabase%2Cdocker%2Cfigma%2Cpr&perline=7&theme=light" />
+      <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Ctailwind%2Cphp%2Claravel%2Cpy%2Cpostgres%2Cmysql%2Csupabase%2Cdocker%2Cfigma%2Cpr&perline=7&theme=dark" alt="Languages and Tools" />
     </picture>
   </a>
 </p>
